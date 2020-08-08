@@ -31,7 +31,7 @@
 			<version>1.3.2</version>
 		</dependency>
 		
-		<!-- https://mvnrepository.com/artifact/com.relevantcodes/extentreports -->
+		<!-- https://mvnrepository.com/artifact/com.relevantcodes/extentreportsS-->
 		<dependency>
 		    <groupId>com.relevantcodes</groupId>
 		    <artifactId>extentreports</artifactId>
